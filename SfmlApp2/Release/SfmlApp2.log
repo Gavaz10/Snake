@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  MainMenu.cpp
+  MainWindow.cpp
+  Snake.cpp
+  Tools.cpp
+  main.cpp
+main.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Init_FreeType"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Done_FreeType"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_New_Face"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_New_Memory_Face"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Open_Face"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Done_Face"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Set_Pixel_Sizes"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Load_Char"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Get_Kerning"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Select_Charmap"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Get_Char_Index"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_MulFix"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Get_Glyph"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Glyph_To_Bitmap"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Done_Glyph"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Outline_Embolden"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Bitmap_Embolden"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Stroker_New"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Stroker_Set"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Stroker_Done"
+sfml-graphics-s.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "_FT_Glyph_Stroke"
+C:\Users\Gyaz\source\repos\SfmlApp2\Release\SfmlApp2.exe : fatal error LNK1120: неразрешенных внешних элементов: 21
